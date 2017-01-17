@@ -1,0 +1,16 @@
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\bin\Debug\WMS.exe.config
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\bin\Debug\WMS.exe
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\bin\Debug\WMS.pdb
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.exe
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.pdb
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.ManagerForm.resources
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.PatientManager.resources
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.NurseManager.resources
+c:\users\eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.WardManager.resources
+C:\Users\Eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.MainMenuForm.resources
+C:\Users\Eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.Treatment.resources
+C:\Users\Eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.EditNurse.resources
+C:\Users\Eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+C:\Users\Eiger\documents\visual studio 2012\Projects\WMS\WMS\obj\Debug\WMS.PatientNurseWard.CreateWard.resources
